@@ -7,9 +7,13 @@ This Jupyter Notebook project aims to predict salaries using various machine lea
 Getting Started:
 
 1.Clone the repository to your local machine.
+
 2.Ensure you have Python 3.x and Jupyter Notebook installed.
+
 3.Install the required dependencies using pip install -r requirements.txt.
+
 4.Open the Jupyter Notebook using jupyter notebook.
+
 5.Navigate to the project directory and open the Salary_Prediction.ipynb file.
 
 Project Structure:
